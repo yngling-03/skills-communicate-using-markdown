@@ -7,4 +7,5 @@
 
 changed the index.md by adding a few headers and a short description of the changes made
 
-![funny programming meme] (./meme.jpeg)
+<img src="meme.jpeg" alt="funny_programming_meme" width="500">
+
